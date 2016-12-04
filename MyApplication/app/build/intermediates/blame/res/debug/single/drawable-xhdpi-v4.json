@@ -1,0 +1,478 @@
+[
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_previous_square_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_previous_square_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_default_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_default_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_drawer.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-core-debug\\unspecified\\res\\drawable-xhdpi-v4\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dropdown_item_selected.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\dropdown_item_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dropdown_background_opened.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\dropdown_background_opened.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\rounded_rect_opaque_white.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\rounded_rect_opaque_white.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_square_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_square_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_default.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\value_input_inline.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\value_input_inline.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\statementinput_top_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\statementinput_top_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\statementinput_top.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\statementinput_top.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dummy_input_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\dummy_input_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\reset_view.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-core-debug\\unspecified\\res\\drawable-xhdpi-v4\\reset_view.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_layers_clear_white_24dp.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-core-debug\\unspecified\\res\\drawable-xhdpi-v4\\ic_layers_clear_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_previous_square_connection.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_previous_square_connection.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_previous_connection.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_previous_connection.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_unchecked_disabled.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_unchecked_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_output_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_output_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\statementinput_bottom_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\statementinput_bottom_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zoom_in.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-core-debug\\unspecified\\res\\drawable-xhdpi-v4\\zoom_in.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_previous_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_previous_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_unchecked.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_unchecked.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_output_connection.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_output_connection.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_previous_square.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_previous_square.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_default_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_default_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dummy_input.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\dummy_input.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\inset_field_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\inset_field_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_hat.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_hat.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\inset_field_border_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\inset_field_border_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_file_download_white_24dp.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-core-debug\\unspecified\\res\\drawable-xhdpi-v4\\ic_file_download_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\value_input_inline_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\value_input_inline_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\statementinput_top_connection.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\statementinput_top_connection.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\value_input_external_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\value_input_external_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\value_input_external_connection.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\value_input_external_connection.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_next_connection.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_next_connection.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\statementinput_bottom.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\statementinput_bottom.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\trash.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-core-debug\\unspecified\\res\\drawable-xhdpi-v4\\trash.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_next_square.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_next_square.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dropdown_background_focused.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\dropdown_background_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_next_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_next_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_checked.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\value_input_external_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\value_input_external_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dropdown_background_default.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\dropdown_background_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_previous.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_previous.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_text_background_disabled.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\edit_text_background_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\value_input_inline_connection.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\value_input_inline_connection.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_play_arrow_white_24dp.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-core-debug\\unspecified\\res\\drawable-xhdpi-v4\\ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_next_square_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_next_square_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dropdown_background_pressed.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\dropdown_background_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\value_input_external.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\value_input_external.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\drawer_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-core-debug\\unspecified\\res\\drawable-xhdpi-v4\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\zoom_out.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-core-debug\\unspecified\\res\\drawable-xhdpi-v4\\zoom_out.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_hat_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_hat_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_default_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_default_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_default.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\edit_text_background_default.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\edit_text_background_default.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_previous_square_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_previous_square_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_default_square_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_default_square_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_output_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_output_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dummy_input_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\dummy_input_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_default_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_default_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_previous_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_previous_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\statementinput_top_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\statementinput_top_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_next.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_next.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_hat_border.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_hat_border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\statementinput_bottom_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\statementinput_bottom_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\checkbox_checked_disabled.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\checkbox_checked_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\top_start_output.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\top_start_output.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_next_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_next_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_next_square_shadow.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_next_square_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_file_upload_white_24dp.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-core-debug\\unspecified\\res\\drawable-xhdpi-v4\\ic_file_upload_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bottom_start_default_square.9.png",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-vertical-debug\\unspecified\\res\\drawable-xhdpi-v4\\bottom_start_default_square.9.png"
+    }
+]

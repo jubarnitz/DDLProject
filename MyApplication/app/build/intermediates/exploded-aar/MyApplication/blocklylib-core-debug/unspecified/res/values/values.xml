@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blockly_edit_text_bg">#80ffffff</color>
+    <color name="blockly_spinner_dropdown_bg">#ffeeeeee</color>
+    <color name="blockly_toolbox_bg">#80FFFFFF</color>
+    <color name="blockly_trash_bg">#80808080</color>
+    <color name="translucent">#00000000</color>
+    <color name="white">#fff</color>
+    <declare-styleable name="BasicFieldDropdownView"><attr format="reference" name="itemLayout"/><attr format="reference" name="dropdownItemLayout"/></declare-styleable>
+    <declare-styleable name="BlockDrawerFragment"><attr format="boolean" name="closeable"/><attr name="scrollOrientation">
+            
+            <flag name="horizontal" value="0"/> 
+            <flag name="vertical" value="1"/> 
+        </attr></declare-styleable>
+    <declare-styleable name="BlocklyWorkspaceTheme"><attr format="float|reference" name="minScale"/><attr format="float|reference" name="maxScale"/><attr format="float|reference" name="defaultScale"/></declare-styleable>
+    <declare-styleable name="CategoryTabs"><attr name="labelRotation">
+            
+            <flag name="none" value="0x00000000"/> 
+            <flag name="cw" value="0x00000001"/> 
+            <flag name="ccw" value="0x00000002"/> 
+            <flag name="left" value="0x00000002"/> 
+            <flag name="right" value="0x00000001"/> 
+            <flag name="start" value="0x00000012"/> 
+            <flag name="end" value="0x00000011"/> 
+        </attr></declare-styleable>
+    <declare-styleable name="ToolboxFragment"><attr name="tabEdge">
+            
+            <flag name="left" value="0x00000003"/>
+            <flag name="top" value="0x00000030"/>
+            <flag name="right" value="0x00000005"/>
+            <flag name="bottom" value="0x00000050"/>
+            <flag name="start" value="0x00800003"/> 
+            <flag name="end" value="0x00800005"/>
+        </attr><attr format="boolean" name="rotateTabs"/></declare-styleable>
+    <declare-styleable name="TrashFragment"/>
+    <declare-styleable name="WorkspaceFragment"><attr format="boolean" name="scrollable"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="toolbox_width">1000dp</dimen>
+    <dimen name="unified_workspace_min_trash_height">48dp</dimen>
+    <string name="action_airstrike">Airstrike</string>
+    <string name="action_carpet_bomb">Carpet Bomb</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_load">Load</string>
+    <string name="action_run">Run</string>
+    <string name="action_save">Save</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_spaghetti">Spaghetti</string>
+    <string name="app_name">Blockly</string>
+    <string name="blockly_toolbox_default_category_name">Blocks</string>
+    <string name="create_variable">New variable</string>
+    <string name="delete_variable">Delete variable\u2026"</string>
+    <string name="delete_variable_confirm">Delete variable %1$s and %2$d blocks using it?</string>
+    <string name="delete_variable_negative">Cancel</string>
+    <string name="delete_variable_positive">Delete</string>
+    <string name="delete_variable_title">Delete variable</string>
+    <string name="name_variable_message">New variable name</string>
+    <string name="name_variable_negative">Cancel</string>
+    <string name="name_variable_positive">OK</string>
+    <string name="name_variable_title">Variable name</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="rename_variable">Rename variable\u2026"</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="toast_workspace_file_not_found">Couldn\'t find saved workspace.</string>
+    <string name="toast_workspace_not_saved">Couldn\'t save workspace.</string>
+    <string name="toast_workspace_saved">Saved workspace contents.</string>
+    <style name="BlocklyTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="minScale">0.5</item>
+        <item name="maxScale">2.5</item>
+        <item name="defaultScale">1.0</item>
+    </style>
+    <style name="CategoryLabelStyle" parent="DefaultCategoryLabelStyle">
+    </style>
+    <style name="DefaultCategoryLabelStyle">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="DefaultSpinnerDropDownStyle">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:background">@color/blockly_spinner_dropdown_bg</item>
+        <item name="android:padding">4dip</item>
+    </style>
+    <style name="DefaultSpinnerStyle" parent="@style/TextAppearance.AppCompat.Widget.TextView.SpinnerItem">
+        <item name="android:textSize">@dimen/abc_text_size_large_material</item>
+        <item name="android:background">@android:drawable/btn_dropdown</item>
+    </style>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\actionbar.xml",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\menu\\actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\blockly_default_actionbar.xml",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-core-debug\\unspecified\\res\\menu\\blockly_default_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\Users\\jubar\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\exploded-aar\\MyApplication\\blocklylib-core-debug\\unspecified\\res\\menu\\global.xml"
+    }
+]

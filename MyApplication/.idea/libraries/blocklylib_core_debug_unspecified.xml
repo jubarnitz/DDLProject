@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="blocklylib-core-debug-unspecified">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/MyApplication/blocklylib-core-debug/unspecified/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/MyApplication/blocklylib-core-debug/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/MyApplication/blocklylib-core-debug/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
