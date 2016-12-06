@@ -50,8 +50,8 @@ char redDir = 'a';
 char blueDir = 'a';
 char greenDir = 'a';
 
-int bluetoothTx = 2;  // TX-O pin of bluetooth mate
-int bluetoothRx = 3;  // RX-I pin of bluetooth mate
+int bluetoothTx = 9;  // TX-O pin of bluetooth mate, RX on Teensy
+int bluetoothRx = 10;  // RX-I pin of bluetooth mate, TX on Teensy
 
 SoftwareSerial bluetooth(bluetoothTx, bluetoothRx);
 
@@ -122,6 +122,36 @@ void loop()
   }
 
   if (go) {
+    if (blue>3000){
+      if(blueDir='a'){
+        right(motor1, motor2, mospeed);
+        delay(1);
+      }
+      if(blueDir='d'){
+        left(motor1, motor2, mospeed);
+        delay(1);
+      }
+    }
+    if (green>3000){
+      if(greenDir='a'){
+        right(motor1, motor2, mospeed);
+        delay(1);
+      }
+      if(greenDir='d'){
+        left(motor1, motor2, mospeed);
+        delay(1);
+      }
+    }
+    if (red>3000){
+      if(redDir='a'){
+        right(motor1, motor2, mospeed);
+        delay(1);
+      }
+      if(redDir='d'){
+        left(motor1, motor2, mospeed);
+        delay(1);
+      }
+    }
     if (center < thresh) {
       //leftspeed=-mospeed;
       //rightspeed=mospeed;
