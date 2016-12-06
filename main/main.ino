@@ -50,6 +50,9 @@ int bluetoothRx = 3;  // RX-I pin of bluetooth mate
 
 SoftwareSerial bluetooth(bluetoothTx, bluetoothRx);
 
+// Declare sensor object
+SFE_ISL29125 RGB_sensor;
+
 void setup()
 {
   // Initialize serial communication
@@ -60,6 +63,12 @@ void setup()
   pinMode(left_IR, INPUT);
   pinMode(center_IR, INPUT);
   pinMode(right_IR, INPUT);
+
+  //RGB Sensor
+  if (RGB_sensor.init())
+  {
+    Serial.println("Sensor Initialization Successful\n\r");
+  }
 }
 
 
@@ -68,11 +77,16 @@ void loop()
   int leftread = analogRead(left_IR);
   int center = analogRead(center_IR);
   int rightread = analogRead(right_IR);
+  //Read sensor values (16 bit integers)
+  unsigned int red = RGB_sensor.readRed();
+  unsigned int green = RGB_sensor.readGreen();
+  unsigned int blue = RGB_sensor.readBlue();
+  
   Serial.print("Left: "); Serial.println(leftread, DEC);
   Serial.print("Center: "); Serial.println(center, DEC);
   Serial.print("Right: "); Serial.println(rightread, DEC);
 
-  if (bluetooth.available()) // If the bluetooth sent any characters
+  while (bluetooth.available()) // If the bluetooth sent any characters
   {
     // Send any characters the bluetooth prints to the serial monitor
     //Serial.print((char)bluetooth.read());
