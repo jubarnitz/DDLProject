@@ -38,12 +38,17 @@ const int offsetB = 1;
 Motor motor1 = Motor(AIN1, AIN2, PWMA, offsetA, STBY);
 Motor motor2 = Motor(BIN1, BIN2, PWMB, offsetB, STBY);
 
+bool go = false; //Determines whether the robot should go or not.
+
 int left_IR = 15;
 int center_IR = 14;
 int right_IR = 16;
 int leftspeed = mospeed;
 int rightspeed = mospeed;
 bool finished = false;
+char redDir = 'a';
+char blueDir = 'a';
+char greenDir = 'a';
 
 int bluetoothTx = 2;  // TX-O pin of bluetooth mate
 int bluetoothRx = 3;  // RX-I pin of bluetooth mate
@@ -81,7 +86,7 @@ void loop()
   unsigned int red = RGB_sensor.readRed();
   unsigned int green = RGB_sensor.readGreen();
   unsigned int blue = RGB_sensor.readBlue();
-  
+
   Serial.print("Left: "); Serial.println(leftread, DEC);
   Serial.print("Center: "); Serial.println(center, DEC);
   Serial.print("Right: "); Serial.println(rightread, DEC);
@@ -90,42 +95,68 @@ void loop()
   {
     // Send any characters the bluetooth prints to the serial monitor
     //Serial.print((char)bluetooth.read());
-    char currentChar=bluetooth.read();    
+    char currentChar = bluetooth.read();
+    int exclamations = 0;
+    if (currentChar = 'i') {
+      char nextChar = bluetooth.read();
+      if (nextChar = 'r') {
+        char dirChar = bluetooth.read();
+        redDir = dirChar;
+      }
+      if (nextChar = 'g') {
+        char dirChar = bluetooth.read();
+        greenDir = dirChar;
+      }
+      if (nextChar = 'b') {
+        char dirChar = bluetooth.read();
+        blueDir = dirChar;
+      }
+    }
+    else if (currentChar = '!') {
+      exclamations++;
+    }
+
+    if (exclamations = 2) {
+      go = true; //The bluetooth message has finished.
+    }
   }
 
-  if (center < thresh) {
-    //leftspeed=-mospeed;
-    //rightspeed=mospeed;
-    forward(motor1, motor2, mospeed);
-    delay(1);
-  }
-  else if (rightread < thresh) {
-    //leftspeed= -(mospeed+50);
-    //rightspeed= mospeed-50;
-    left(motor1, motor2, mospeed);
-    delay(1);
-  }
-  else if (leftread < thresh) {
-    //leftspeed= -(mospeed-50);
-    //rightspeed= mospeed+50;
-    right(motor1, motor2, mospeed);
-    delay(1);
-  }
+  if (go) {
+    if (center < thresh) {
+      //leftspeed=-mospeed;
+      //rightspeed=mospeed;
+      forward(motor1, motor2, mospeed);
+      delay(1);
+    }
+    else if (rightread < thresh) {
+      //leftspeed= -(mospeed+50);
+      //rightspeed= mospeed-50;
+      left(motor1, motor2, mospeed);
+      delay(1);
+    }
+    else if (leftread < thresh) {
+      //leftspeed= -(mospeed-50);
+      //rightspeed= mospeed+50;
+      right(motor1, motor2, mospeed);
+      delay(1);
+    }
 
-  if ((leftread < thresh) && (rightread < thresh) && (center < thresh)) {
-    leftspeed = 0;
-    rightspeed = 0;
-    finished = true;
-  }
+    if ((leftread < thresh) && (rightread < thresh) && (center < thresh)) {
+      leftspeed = 0;
+      rightspeed = 0;
+      finished = true;
+    }
 
-  if (!finished) {
-    //motor1.drive(leftspeed,10);
-    //motor2.drive(rightspeed,10);
-  }
-  else
-  {
-    motor1.drive(0, 10);
-    motor2.drive(0, 10);
+    if (!finished) {
+      //motor1.drive(leftspeed,10);
+      //motor2.drive(rightspeed,10);
+    }
+    else
+    {
+      motor1.drive(0, 10);
+      motor2.drive(0, 10);
+    }
+
   }
 
 }
